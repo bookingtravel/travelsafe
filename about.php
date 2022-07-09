@@ -31,10 +31,37 @@
 
 
 </section>
-<div class="heading" style="background:url(images/header-bg-1.png) no-repeat">
+<div class="heading" style="background:url(css/images/header-bg-1.png) no-repeat">
    <h1>about us</h1>
 </div>
 
+<section class="about">
+
+   <div class="image">
+      <img src="css\images\about-img.jpg" alt="">
+   </div>
+
+   <div class="content">
+      <h3>why choose us?</h3>
+      <p>Full Service – Everything that a tourist may need when going abroad, in addition to the ticket.<br> Quality Guarantee – We do not have to worry about paperwork necessary documents.<br> Full support – contacting us, you get full support, from choosing the tour and ending with advice on what to take with you on a trip.</p>
+      
+      <div class="icons-container">
+         <div class="icons">
+            <i class="fas fa-map"></i>
+            <span>top destinations</span>
+         </div>
+         <div class="icons">
+            <i class="fas fa-hand-holding-usd"></i>
+            <span>affordable price</span>
+         </div>
+         <div class="icons">
+            <i class="fas fa-headset"></i>
+            <span>24/7 guide service</span>
+         </div>
+      </div>
+   </div>
+
+</section>
 
 
 
