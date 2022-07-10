@@ -138,7 +138,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="css/images/img 1 .jpg" alt="">
+            <img src="css/images/img-1.jpg" alt="">
          </div>
          <div class="content">
             <h3>Heavenly Himachal</h3>
